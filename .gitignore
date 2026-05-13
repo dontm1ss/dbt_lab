@@ -1,0 +1,6 @@
+.vscode/ 
+dev.duckdb 
+target/ 
+dbt_automation.log 
+logs/ 
+*.pyc 
